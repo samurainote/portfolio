@@ -39,7 +39,7 @@ I've also published several articles on Medium about Data Science and Natural La
   - [Gaussian Naive Bayes for text: Spam Filter for e-mail](https://github.com/samurainote/Text_Classificasion_Spamfilter_with_GaussianNB) ナイーブベイズ分類器によるEメールスパムフィルター.
   - [CNN for Long Text: News Article Classifications](https://github.com/samurainote/CNN_Convolutional_NN_for_news_contents_classification) 長文テキストにCNNを用いたニュース記事分類.
   - [Bidirectional LSTM: Sentiment Analysis on reviews](https://github.com/samurainote/Bidirectional_LSTM_Sentiment_Analysis_imbd) 双方向LSTMを用いた映画レビューにおける感情分析.
-  - [Stacked RNN vs Simple RNN: Sentiment Analysis on movie review](https://github.com/samurainote/StackedRNN_for_Sentiment_Analysis) 複数のリカーレントネットワークを用いた感情分類.
+  - [Stacked RNN vs Simple RNN: Sentiment Analysis on movie review](https://github.com/samurainote/StackedRNN_for_Sentiment_Analysis) 複数のRNNを用いた感情分類.
   - [LSTM for Tweet: Sentiment Analysis on Twitter](https://github.com/samurainote/LSTM_for_Sentiment_Analysis_with_Twitter_textdata) LSTMを用いたツイートに対する感情分析.
   - [LSTM with Chainer: Text Classification](https://github.com/samurainote/Text_Classification_LSTM_Chainer/blob/master/code/main_code.ipynb) ChainerによるLSTMを用いた文章分類のモディフィケーション.
 
@@ -65,8 +65,8 @@ I've also published several articles on Medium about Data Science and Natural La
 ### 3. Recommend System by Machine Learning レコメンドシステム
 
 - #### Recommendation Engine 推薦エンジン
-  - [Collaborative Filtering with SVD: Book Recommender System](https://github.com/samurainote/Book_Recommendation) 特異値分解と協調フィルタリングによる本の推薦システム.
-  - [Content Based by Cosine Similarity: Movie Recommender System](https://github.com/samurainote/Content_based_movie_recommendation)　Tfidfとコサイン類似度による映画の推薦システム.
+  - [Collaborative Filtering with SVD: Book Recommender System](https://github.com/samurainote/Book_Recommendation) 特異値分解と協調フィルタリングによる本の推薦.
+  - [Content Based by Cosine Similarity: Movie Recommender System](https://github.com/samurainote/Content_based_movie_recommendation)　Tfidfとコサイン類似度による映画の推薦.
 
 
 ### 4. Kaggle Challenges: Prediction Tasks ディープラーニングと機械学習を用いた予測モデル
