@@ -30,7 +30,7 @@ I've also published several articles on Medium about Data Science and Natural La
   - [OpenCV: Text Extraction from Image](https://github.com/samurainote/OCR_Text_Detection_from_Image) 画像からテキスト情報を抽出する文字起こし機能の実装.
 
 - #### Recommend System レコメンドエンジン × 自然言語処理
-  - [Question-Answer Recommendation Engine from Kaggle] *現在進行中 on process*
+  - [Question-Answer Recommendation Engine from Kaggle](https://github.com/samurainote/NLP-meets-Recommendetion-Doc2Vec-based-Recommendation-from-kaggle) *現在進行中 on process*
 
 - #### Classification 分類 × 自然言語処理
   - [Doc2Vec: Hate Speech Detection from Tweet](https://github.com/samurainote/Sentimentment_Analysis_for_hatespeech) Doc2Vecを用いたツイートからのヘイトスピーチ検出.
