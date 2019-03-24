@@ -44,7 +44,7 @@ I've also published several articles on Medium about Data Science and Natural La
   - [LSTM with Chainer: Text Classification](https://github.com/samurainote/Text_Classification_LSTM_Chainer/blob/master/code/main_code.ipynb) ChainerによるLSTMを用いた文章分類のモディフィケーション.
 
 - #### Regression 回帰 × 自然言語処理
-  - [Regression: Mercari Price Suggestion Challenge](https://github.com/samurainote/mercari_price_prediction): *現在進行中 on process* mercariにおける出品アイテムの価格予測.
+  - [Regression: Mercari Price Suggestion Challenge](https://github.com/samurainote/mercari_price_prediction_from_kaggle): *現在進行中 on process* mercariにおける出品アイテムの価格予測.
 
 - #### Preprocessing 前処理 × 自然言語処理
   - [Preprocessing Simplest Code-kit for NLP](https://github.com/samurainote/nlp_preprocessing_tool-kit) 自然言語処理における前処理Tips&Code.
